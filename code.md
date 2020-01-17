@@ -1,4 +1,3 @@
-# STA207_Group_12
 ---
 title: "STA 207 Project 1, Analysis of Class Size Effect on Test Scores"
 date: "2020/1/17"
@@ -587,7 +586,7 @@ Based on the analysis, we can conclude that the class size has the effect on the
 ```{r echo=FALSE}
 print(sessionInfo(), local = FALSE)
 ```
-
+The github link is :https://github.com/BillXu999/STA207_Group_12
 
 ```{r eval=FALSE, include=FALSE}
 ## load the required packages
