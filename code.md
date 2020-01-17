@@ -579,7 +579,7 @@ confidence, the two different methods indicate that all three pairs $\mu_{2}-\mu
 
 The model diagnostics suggests that the assumptions of the one-way anova model are satisfied. And sensitivity analysis shows that there are still differences of the math score in different class size when we take more fatcors into considerations. 
 
-Based on the analysis, we can conclude that the class size has the effect on the math score of the 1st grade students. The 1st grade students in small class has the highest math score, and the math scores of the students in regular class with teacher's aide are higher than that in regular class. These results make sense because students in small class have higher effeciency and teachers also can offer more guidance on math. 
+Based on the analysis, we can see that class size can cause the different in math score of the 1st grade year students in each class size. The 1st grade students in small class has the highest math score, and the math scores of the students in regular class with teacher's aide are higher than that in regular class. These results make sense because students in small class have higher effeciency and teachers also can offer more guidance on math. 
 
 # Session Information
 
